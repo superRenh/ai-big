@@ -1,0 +1,6 @@
+[submodule "ai-web"]
+	path = ai-web
+	url = https://github.com/superRenh/ai-web.git
+[submodule "iot"]
+	path = iot
+	url = https://github.com/superRenh/iot.git
